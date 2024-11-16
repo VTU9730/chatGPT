@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chatGPT/static/css/main.89f4f977.css",
+    "main.js": "/chatGPT/static/js/main.2cc0dedb.js",
+    "index.html": "/chatGPT/index.html",
+    "main.89f4f977.css.map": "/chatGPT/static/css/main.89f4f977.css.map",
+    "main.2cc0dedb.js.map": "/chatGPT/static/js/main.2cc0dedb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89f4f977.css",
+    "static/js/main.2cc0dedb.js"
+  ]
+}
